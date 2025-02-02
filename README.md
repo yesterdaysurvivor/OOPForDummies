@@ -61,11 +61,16 @@ The notebook contains guided explanations along with empty code blocks that you'
 ### 🎮 Step 6: Run the Game
 Once you've completed the missing sections, execute the notebook cells to see the Snake Game in action!
 
+
 ## 📢 We Value Your Feedback!
 Your feedback helps improve this project! If you have suggestions, found bugs, or just want to share your experience, here are a few ways you can contribute:
 
 🔹 Create an Issue: Report bugs or suggest improvements by opening an issue [here](https://github.com/yesterdaysurvivor/OOPForDummies/issues).
+
 🔹 Star the Repo: If you found this useful, consider giving it a ⭐ to support the project!
+
 🔹 Submit a Pull Request: If you’ve made an improvement, feel free to contribute!
+
 🔹 Fill Out This Feedback Form: [Google Form Link](https://forms.gle/8SnDToz5tytxL6AH6)
+
 🔹 Share Your Thoughts on LinkedIn: Post about your experience or send me a message. I'd love to hear from you! Connect with me [here](https://www.linkedin.com/in/sakshaymahna/).
