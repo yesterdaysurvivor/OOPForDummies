@@ -22,8 +22,8 @@ Make sure you have the following installed on your system:
 ### 📥 Step 1: Clone the Repository
 Open a terminal (or command prompt) and run:
 ```bash
-git clone https://github.com/your-username/snake-game-oop.git
-cd snake-game-oop
+git clone https://github.com/yesterdaysurvivor/OOPForDummies.git
+cd OOPForDummies
 ```
 
 ### 📦 Step 2: Set Up a Virtual Environment (Recommended)
